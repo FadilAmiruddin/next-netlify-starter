@@ -1,5 +1,6 @@
 // Import required modules
 const http = require('http');
+import React from 'react';
 
 // Define your API endpoints and their handlers
 const routes = {
